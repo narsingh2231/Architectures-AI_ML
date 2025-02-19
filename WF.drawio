@@ -16,13 +16,13 @@
         <mxCell id="FykbhqTIrsHI60LTdgqf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="1" source="FykbhqTIrsHI60LTdgqf-2" target="FykbhqTIrsHI60LTdgqf-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FykbhqTIrsHI60LTdgqf-2" value="{&lt;div&gt;Application Name:&lt;div&gt;Description:&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+        <mxCell id="FykbhqTIrsHI60LTdgqf-2" value="{&lt;div&gt;Application Name:&lt;div&gt;Description:&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="190" y="235" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FykbhqTIrsHI60LTdgqf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="1" source="FykbhqTIrsHI60LTdgqf-4" target="FykbhqTIrsHI60LTdgqf-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FykbhqTIrsHI60LTdgqf-4" value="Single API Need to be integrated from ServiceNow Side" style="whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+        <mxCell id="FykbhqTIrsHI60LTdgqf-4" value="Single API Need to be integrated from ServiceNow Side" style="whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="790" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FykbhqTIrsHI60LTdgqf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="1" source="FykbhqTIrsHI60LTdgqf-6" target="FykbhqTIrsHI60LTdgqf-4">
